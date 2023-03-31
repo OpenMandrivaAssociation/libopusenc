@@ -4,7 +4,7 @@
 
 Name:		libopusenc
 Version:	0.2.1
-Release:	%mkrel 1
+Release:	2
 Summary:	A library that provides an easy way to encode Ogg Opus files
 Group:		System/Libraries
 License:	BSD
