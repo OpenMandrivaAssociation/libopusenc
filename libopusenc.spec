@@ -11,6 +11,11 @@ License:	BSD
 URL:		https://opus-codec.org/
 Source0:	https://ftp.osuosl.org/pub/xiph/releases/opus/%{name}-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gcc
 BuildRequires:	doxygen
 BuildRequires:	pkgconfig(opus)
